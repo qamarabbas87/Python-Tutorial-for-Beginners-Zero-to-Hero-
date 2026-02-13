@@ -1,31 +1,30 @@
 # Python Tutorial for Beginners — Zero to Hero
 
-A beginner-friendly Python tutorial with small lessons and practice problems, progressing step-by-step from fundamentals to intermediate concepts.
+A step-by-step Python tutorial series for absolute beginners.  
+Each “Level” builds gradually from fundamentals to more practical programming.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
-## 📌 What you’ll learn
-- Variables, data types, and operators
-- Conditions (`if/elif/else`)
-- Loops (`for`, `while`)
-- Functions
-- Lists, tuples, sets, dictionaries
-- Strings and common patterns
-- Mini exercises + solutions
+## 📚 Contents
+
+- **Level 0 Python.py** — Basics (print, variables, simple input/output)
+- **Level 1 Python.py** — Conditions (`if/elif/else`)
+- **Level 2 Python.py** — Loops (`for`, `while`)
+- **Level 3 Python.py** — Functions + basic problem solving
+- **Level 4 Python.py** — Lists / Strings / Dictionaries (practice patterns)
+- **Practice Python Zero to Hero Series 1.py** — Mixed practice problems
 
 ---
 
-## 📂 Repository structure
+## 🗂 Repository files
+
 ```text
-lessons/
-  00_basics.py
-  01_conditions.py
-  02_loops.py
-exercises/
-  level_0/
-  level_1/
-solutions/
+Level 0 Python.py
+Level 1 Python.py
+Level 2 Python.py
+Level 3 Python.py
+Level 4 Python.py
+Practice Python Zero to Hero Series 1.py
 README.md
